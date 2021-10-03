@@ -1,0 +1,107 @@
+body{
+  background-size: 100px;
+  background-attachment: fixed;
+  background-color: black;
+}
+
+h1{
+  text-align:center;
+  background-image: url(guyf.gif);
+  width: 500px;
+  height: 400px;
+  margin: 0 auto;
+  background-size: 500px;
+  background-repeat: no-repeat;
+  line-height: 100px;
+  color:#2bff00;
+}
+
+.p1{
+  text-align: center;
+  font-size:50px;
+  font-weight:  1000;
+  color: white;
+  background-color: #cbfb09;
+  width: 700px;
+  margin: 0 auto;
+  margin-top: 10px
+}
+
+.p2{
+  text-align: center;
+  font-size:50px;
+  font-weight:  1000;
+  color: white;
+  background-color:#40f700;
+  width: 700px;
+  margin: 0 auto;
+
+}
+
+.p3{
+  text-align: center;
+  font-size:50px;
+  font-weight:  1000;
+  color: white;
+  background-color: #ff0008;
+  width: 700px;
+  margin: 0 auto;
+}
+
+.p4{
+  margin-top: 10px;
+  width: 500px;
+  height: 270px;
+  background-color: black;
+  margin: 0 auto;
+}
+
+p{
+  font-size: 30px;
+  text-align: center;
+  color: #ff0606
+}
+
+a{
+  font-size: 25px;
+}
+
+ul{
+  list-style-type: circle;
+}
+
+.gg{
+
+  margin-top: 10px;
+  background-image: url(gg.jpeg);
+  background-repeat: no-repeat;
+  background-size: 30px;
+  padding-left: 40px;
+}
+
+.fb{
+
+  margin-top: 10px;
+  background-image: url(fb.png);
+  background-repeat: no-repeat;
+  background-size: 30px;
+  padding-left: 40px;
+}
+
+.fbi{
+
+  margin-top: 10px;
+  background-image: url(fbi.jpeg);
+  background-repeat: no-repeat;
+  background-size: 30px;
+  padding-left: 40px;
+}
+
+.mis{
+
+  margin-top: 10px;
+  background-image: url(mic.png);
+  background-repeat: no-repeat;
+  background-size: 30px;
+  padding-left: 40px;
+}
